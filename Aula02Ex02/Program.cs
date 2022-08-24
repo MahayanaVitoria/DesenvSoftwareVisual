@@ -19,9 +19,9 @@ namespace Aula02
                 double euroConversao = CalcularDolar(real, euro);
                 double pesoConversao = CalcularDolar(real, peso);
 
-                Console.WriteLine("R$" + real + " convertido em dólar é $" + dolarConversao);
-                Console.WriteLine("R$" + real + " convertido em euro é $" + euroConversao);
-                Console.WriteLine("R$" + real + " convertido em peso é $" + pesoConversao);
+                Console.WriteLine("R$" + real + " convertido em dólares é $" + dolarConversao);
+                Console.WriteLine("R$" + real + " convertido em euros é $" + euroConversao);
+                Console.WriteLine("R$" + real + " convertido em pesos argentinos é $" + pesoConversao);
 
             }
             catch(Exception erro) //se não der, tente isso

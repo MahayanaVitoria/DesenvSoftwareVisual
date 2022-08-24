@@ -1,38 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Documents\\Aula02\\Aula02\\Aula02.csproj": {}
+    "C:\\Users\\nb019\\Documents\\GitHub\\DesenvSoftwareVisual\\Aula02Ex02\\Aula02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Documents\\Aula02\\Aula02\\Aula02.csproj": {
+    "C:\\Users\\nb019\\Documents\\GitHub\\DesenvSoftwareVisual\\Aula02Ex02\\Aula02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\Aula02\\Aula02\\Aula02.csproj",
+        "projectUniqueName": "C:\\Users\\nb019\\Documents\\GitHub\\DesenvSoftwareVisual\\Aula02Ex02\\Aula02.csproj",
         "projectName": "Aula02",
-        "projectPath": "C:\\Users\\Aluno\\Documents\\Aula02\\Aula02\\Aula02.csproj",
-        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Documents\\Aula02\\Aula02\\obj\\",
+        "projectPath": "C:\\Users\\nb019\\Documents\\GitHub\\DesenvSoftwareVisual\\Aula02Ex02\\Aula02.csproj",
+        "packagesPath": "C:\\Users\\nb019\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nb019\\Documents\\GitHub\\DesenvSoftwareVisual\\Aula02Ex02\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\nb019\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -43,15 +35,16 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
